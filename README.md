@@ -19,6 +19,6 @@
       <p> Croissant ... €2.99 </p>
       <p> Macarons Assortis €6.99 </p>
     <figure>
-      <img alt="Pain au Chocolat" src="images/painAuChocolat.jpg" />
+      <img alt="Pain au Chocolat" src="painAuChocolat.jpg" />
   </body>
 </html>
