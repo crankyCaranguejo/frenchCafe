@@ -16,6 +16,8 @@
     <section>
       <h2> Pâtissierie </h2>
       <p> Pain au Chocolat ... €3.99 </p>
+      <p> Croissant ... €2.99 </p>
+      <p> Macarons Assortis €6.99 </p>
     <figure>
       <img alt="Pain au Chocolat" src="images/painAuChocolat.jpg" />
   </body>
